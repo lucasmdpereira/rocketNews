@@ -1,6 +1,6 @@
 <h2>Desafio "Rocket News"</h2>
 
-![Group 1](https://user-images.githubusercontent.com/73071973/142681567-607a3217-d136-4536-977b-f46bc0e28ed8.png)
+![Group 1](https://user-images.githubusercontent.com/73071973/154738326-a900bcf2-df89-4500-9991-86b0d1c066a3.jpg)
 
 <h3>🛠 Technologies</h3>
 <ul>
@@ -14,7 +14,7 @@
 </ul> 
 
 <h3>💻 Project</h3>
-<p>In this <a href='https://www.rocketseat.com.br/'> Rocketseat </a> challenge I developed a lead capture page or newsletter..
+<p>In this <a href='https://www.rocketseat.com.br/'> Rocketseat </a> challenge I developed a lead capture page or newsletter.
 
 <h3>🎓 Achievements</h3>
 <p>Use of advanced CSS selectors.<br>
